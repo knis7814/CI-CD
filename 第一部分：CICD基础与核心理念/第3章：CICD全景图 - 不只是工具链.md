@@ -1,4 +1,4 @@
-# 第1章第3节：CI/CD全景图 - 不只是工具链
+# 第3章：CI/CD全景图 - 不只是工具链
 
 ## 3.1 持续集成（Continuous Integration）深度解析
 
